@@ -4,7 +4,7 @@
 
 URL decode will ignore invalid % encoding and continues on the rest.\
 Specify how many times of encoding/decoding with -t\
-Can recursively decode until not more changes with -r\
+Can recursively decode until not more changes with -r
 ```
 echo "<img src=x onerror=alert()>" | urlcode -t 100 | urlcode -d -r
 ```
