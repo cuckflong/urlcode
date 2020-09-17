@@ -1,0 +1,2 @@
+%3Cscript%3Ealert%28%29%3C%2Fscript%3E%zzzz
+%3Cimg%20src=x%20onerror=alert%28%29%3E
